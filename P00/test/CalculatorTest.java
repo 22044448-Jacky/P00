@@ -58,7 +58,7 @@ public class CalculatorTest {
 	}
 	
 	@Test
-	public final void testDivide() {
+	public void testDivide() {
 		int a = 10;
 		int b = 5;
 		
